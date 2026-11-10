@@ -1,0 +1,24 @@
+Feature,Skewness,Interpretation
+is_canceled,0.5366783893964282,Moderately positively/right skewed
+lead_time,1.3465498727254264,Highly positively/right skewed
+arrival_date_year,0.0,Approximately symmetric
+arrival_date_week_number,0.0038814650468723534,Approximately symmetric
+arrival_date_day_of_month,0.002372846026458994,Approximately symmetric
+stays_in_weekend_nights,1.3800464497062852,Highly positively/right skewed
+stays_in_week_nights,2.8622492420671244,Highly positively/right skewed
+adults,18.317804759206098,Highly positively/right skewed
+children,4.112669999376718,Highly positively/right skewed
+babies,24.646544829663092,Highly positively/right skewed
+is_repeated_guest,5.326315335062105,Highly positively/right skewed
+previous_cancellations,24.458048723119287,Highly positively/right skewed
+previous_bookings_not_canceled,23.539799952843467,Highly positively/right skewed
+booking_changes,6.000270054409322,Highly positively/right skewed
+agent,1.3002872477740848,Highly positively/right skewed
+company,5.9184056436866825,Highly positively/right skewed
+days_in_waiting_list,11.944353446438395,Highly positively/right skewed
+adr,10.53021398218952,Highly positively/right skewed
+required_car_parking_spaces,4.163233237874087,Highly positively/right skewed
+total_of_special_requests,1.3491893774222594,Highly positively/right skewed
+total_nights,3.308771308928388,Highly positively/right skewed
+total_guests,10.15416687708746,Highly positively/right skewed
+arrival_month_num,-0.0010277943889322049,Approximately symmetric

@@ -1,0 +1,10 @@
+Metric,Value
+Total_Records,119390.0
+Total_Features,37.0
+Numerical_Features,23.0
+Categorical_Features,14.0
+Missing_Values,0.0
+Duplicate_Records,0.0
+Cancelled_Bookings,44224.0
+Not_Cancelled_Bookings,75166.0
+Cancellation_Rate_Percentage,37.04
